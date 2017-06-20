@@ -1,0 +1,7 @@
+#Using this File
+#spec_type - Ranged, Melee, Healer, Tank
+#Weigths do not need to be in the 0 - 1 relation
+#Custom specs can be Added. Example: orcobo furry, juubey beast
+#Set_Importance can be F4 (force 4 pieces), F2 (force 2 pieces), NI (Not Important), AV (avoid Set Pieces)
+class;armor_type;spec;spec_type;stam_weight;main_weight;crit_weight;mast_weight;haste_weight;vers_weight;set_importance
+shaman;mail;resto;Healer;0.02;1.0;0.95;0.85;0.5;0.1;F4

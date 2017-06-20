@@ -1,0 +1,204 @@
+﻿Item;Difficulty;Type;Slot;Stamina;MainAtrribute;Crit;Mastery;Haste;Versatility;Tier;Class;Boss
+Sphere of Entropy;Heroic;Frost;Relic;0;0;0;0;0;0;False;Any;Kil'jaeden
+Cloak of Stifling Brimstone;Heroic;Neutral;Back;2106;1404;0;344;639;0;False;Any;Goroth
+Emberscatter Treads;Heroic;Cloth;Feet;2808;1872;571;740;0;0;False;Any;Goroth
+Slippers of Enduring Vigilance;Heroic;Cloth;Feet;2808;1872;0;431;880;0;False;Any;Zone
+Gloves of Furtive Oppression;Heroic;Cloth;Hands;3082;2055;797;564;0;0;False;Any;Kil'jaeden
+Hundred-Fathom Veil;Heroic;Cloth;Head;3744;2496;0;1174;0;574;False;Any;Mistress Sassz'ine
+Blackned Mask of Disgrace;Heroic;Cloth;Head;3744;2496;686;0;1061;0;False;Any;Zone
+Legwraps of Fused Loathing;Heroic;Cloth;Legs;3744;2496;0;612;1136;0;False;Any;Goroth
+Leggins of Divine Portents;Heroic;Cloth;Legs;3744;2496;724;0;0;1024;False;Any;Maiden of Vigilance
+Diabolic Robe;Heroic;Cloth;Chest;3744;2496;0;0;1174;574;True;Warlock;Kil'jaeden
+Robe of Aqueous Command;Heroic;Cloth;Chest;3744;2496;1136;612;0;0;False;Any;Zone
+Mantle of Broken Spirits;Heroic;Cloth;Shoulder;2808;1872;0;852;0;459;False;Any;Atrigan
+Shoulderpads of Whispering Twilight;Heroic;Cloth;Shoulder;2808;1872;824;0;486;0;False;Any;Huntress Kasparian
+Braided Torture Lash;Heroic;Cloth;Waist;2808;1872;880;0;431;0;False;Any;Zone
+Strife-Riddled Cinch;Heroic;Cloth;Waist;2808;1872;0;824;486;0;False;Any;Maiden of Vigilance
+String of Extracted Incisors;Heroic;Neutral;Neck;2106;0;0;0;1923;1285;False;Any;Zone
+Locket of Splintered Souls;Heroic;Neutral;Neck;2106;0;1469;1745;0;0;False;Any;Zone
+Charred Hymnal of The Moon;Heroic;Arcane;Relic;0;0;0;0;0;0;False;Any;Goroth
+Inexorable Truth Serum;Heroic;Arcane;Relic;0;0;0;0;0;0;False;Any;Zone
+Mote of Astral Suffusion;Heroic;Arcane;Relic;0;0;0;0;0;0;False;Any;Zone
+Torn Fabric of Reality;Heroic;Arcane;Relic;0;0;0;0;0;0;False;Any;Kil'jaeden
+Blood Relic;Heroic;Blood;Relic;0;0;0;0;0;0;False;Any;Zone
+Pungent Chum;Heroic;Blood;Relic;0;0;0;0;0;0;False;Any;Mistress Sassz'ine
+Man'ari Blood Pact;Heroic;Blood;Relic;0;0;0;0;0;0;False;Any;Kil'jaeden
+Tears of The Maiden;Heroic;Blood;Relic;0;0;0;0;0;0;False;Any;Maiden of Vigilance
+Shrould of the Drowned Adherent;Heroic;Neutral;Back;2106;1404;0;576;0;407;False;Any;Mistress Sassz'ine
+Gravewarden Cloak;Heroic;Neutral;Back;2106;1404;0;449;0;534;True;Death Knight;Engine of Souls
+Demonbane Shroud;Heroic;Neutral;Back;2106;1404;0;0;639;344;True;Demon Hunter;Engine of Souls
+Stormheart Drape;Heroic;Neutral;Back;2106;1404;386;0;597;0;True;Druid;Engine of Souls
+Wildstalker Cape;Heroic;Neutral;Back;2106;1404;407;0;576;0;True;Hunter;Engine of Souls
+Drape of Arcane Tempest;Heroic;Neutral;Back;2106;1404;0;365;0;618;True;Mage;Engine of Souls
+Xuen's Cloak;Heroic;Neutral;Back;2106;1404;0;386;0;597;True;Monk;Engine of Souls
+Radian Lightbringer Cape;Heroic;Neutral;Back;2106;1404;0;0;597;386;True;Paladin;Engine of Souls
+Shawl of Blind Absolution;Heroic;Neutral;Back;2106;1404;618;365;0;0;True;Priest;Engine of Souls
+Fanged Slayer's Shroud;Heroic;Neutral;Back;2106;1404;576;0;407;0;True;Rogue;Engine of Souls
+Drape of The Skybreaker;Heroic;Neutral;Back;2106;1404;407;0;0;576;True;Shaman;Engine of Souls
+Diabolic Shroud;Heroic;Neutral;Back;2106;1404;639;0;0;344;True;Warlock;Engine of Souls
+Titanic Onslaught Cloak;Heroic;Neutral;Back;2106;1404;344;639;0;0;True;Warrior;Engine of Souls
+Cape of Mindless Fury;Heroic;Neutral;Back;2106;1404;597;0;386;0;False;Any;Fallen Avatar
+Scaled Band of Servitude;Heroic;Neutral;Finger;2106;0;0;1837;1378;0;False;Any;Harjatan
+Yathae's Yhumb Ring;Heroic;Neutral;Finger;2106;0;1893;0;0;867;False;Any;Huntress Kasparian
+Band of Rescinded Truths;Heroic;Neutral;Finger;2106;0;0;1194;0;2020;False;Any;Maiden of Vigilance
+Seal of The Second Duumvirate;Heroic;Neutral;Finger;2106;0;1561;0;1854;0;False;Any;Kil'jaeden
+Sea Star of The Depthmother;Heroic;Neutral;Trinket;0;0;0;0;0;1248;False;Healer;Mistress Sassz'ine
+Archive of Faith;Heroic;Neutral;Trinket;0;0;1248;0;0;0;False;Healer;Fallen Avatar
+The Deceiver's Grand Design;Heroic;Neutral;Trinket;0;0;0;1296;0;0;False;Healer;Kil'jaeden
+Infernal Cinders;Heroic;Neutral;Trinket;0;0;1248;0;0;0;False;Melee;Goroth
+Cradle of Anguish;Heroic;Neutral;Trinket;0;0;0;0;1248;0;False;DPS;Atrigan
+Vial of Ceaseless Toxins;Heroic;Neutral;Trinket;0;2372;0;0;0;0;False;Melee;Mistress Sassz'ine
+Umbrals Moonglaives;Heroic;Neutral;Trinket;0;0;0;0;0;1248;False;DPS;Huntress Kasparian
+Engine of Eradication;Heroic;Neutral;Trinket;0;0;0;1248;0;0;False;Melee;Maiden of Vigilance
+Terror From Below;Heroic;Neutral;Trinket;0;0;1248;0;0;0;False;Ranged;Mistress Sassz'ine
+Tarnished Sentinel Medallion;Heroic;Neutral;Trinket;0;0;0;1248;0;0;False;Ranged;Huntress Kasparian
+Spectral Thurible;Heroic;Neutral;Trinket;0;0;0;0;0;1248;False;Ranged;Engine of Souls
+Feverish Carapace;Heroic;Neutral;Trinket;0;2372;0;0;0;0;False;Tank;Goroth
+Leviathan's Hunger;Heroic;Neutral;Trinket;0;0;0;0;1248;0;False;Any;Mistress Sassz'ine
+Reliquary of The Damned;Heroic;Neutral;Trinket;3559;0;0;0;0;0;False;Tank;Engine of Souls
+Recompiled Guardian Module;Heroic;Neutral;Trinket;0;0;0;0;0;1248;False;Tank;Maiden of Vigilance
+Shifting Cosmic Sliver;Heroic;Neutral;Trinket;0;0;0;1296;0;0;False;Tank;Kil'jaeden
+Charm of The Rising Tide;Heroic;Neutral;Trinket;0;2372;0;0;0;0;False;Ranged;Harjatan
+Charm of The Rising Tide;Heroic;Neutral;Trinket;0;2372;0;0;0;0;False;Healer;Harjatan
+Barbaric Mindslaver;Heroic;Neutral;Trinket;0;2372;0;0;0;0;False;Healer;Atrigan
+Chalice of Moonlight;Heroic;Neutral;Trinket;0;2372;0;0;0;0;False;Healer;Huntress Kasparian
+Tome of Unraveling Sanity;Heroic;Neutral;Trinket;0;2604;0;0;0;0;False;DPS;Kil'jaeden
+Hood of Blind Absolution;Heroic;Cloth;Head;3744;2496;0;0;1174;574;True;Priest;Atrigan
+Diabolic Helm;Heroic;Cloth;Head;3744;2496;1024;724;0;0;True;Warlock;Atrigan
+Mantle of Arcane Tempest;Heroic;Cloth;Shoulder;2808;1872;0;880;431;0;True;Mage;Fallen Avatar
+Mandle of Blind Absolution;Heroic;Cloth;Shoulder;2808;1872;571;0;0;740;True;Priest;Fallen Avatar
+Diabolic Mantle;Heroic;Cloth;Shoulder;2808;1872;515;0;769;0;True;Warlock;Fallen Avatar
+Robes of Blind Absolution;Heroic;Cloth;Chest;3744;2496;0;1024;724;0;True;Priest;Kil'jaeden
+Robes of The Arcane Tempest;Heroic;Cloth;Chest;3744;2496;686;0;1061;0;True;Mage;Kil'jaeden
+Soul Queen's Ceremonial Robes;Heroic;Cloth;Chest;3744;2496;0;0;649;1099;False;Any;Zone
+Leggins of The Arcane Tempest;Heroic;Cloth;Legs;3744;2496;724;1024;0;0;True;Mage;Mistress Sassz'ine
+Leggins of Blind Absolution;Heroic;Cloth;Legs;3744;2496;1061;0;686;0;True;Priest;Mistress Sassz'ine
+Diabolic Leggins;Heroic;Cloth;Legs;3744;2496;0;1099;649;0;True;Warlock;Mistress Sassz'ine
+Ravenous Devotee's Bracelets;Heroic;Cloth;Wrist;2106;1404;0;407;576;0;False;Any;Harjatan
+Oathbreaker's Cuffs;Heroic;Cloth;Wrist;2106;1404;639;0;0;344;False;Any;Fallen Avatar
+Gloves of The Arcane Tempest;Heroic;Cloth;Hands;2808;1872;0;0;852;459;True;Mage;Harjatan
+Gloves of Blind Absolution;Heroic;Cloth;Hands;2808;1872;0;852;0;459;True;Priest;Harjatan
+Diabolic Gloves;Heroic;Cloth;Hands;2808;1872;0;571;0;740;True;Warlock;Harjatan
+Lunar-Wrath Haedgear;Heroic;Leather;Head;3744;2496;0;612;1136;0;False;Any;Huntress Kasparian
+Shadow-Scared Headcover;Heroic;Leather;Head;4109;2739;1218;0;596;0;False;Any;Kil'jaeden
+Demonbane Faceguard;Heroic;Leather;Head;3744;2496;1136;0;0;612;True;Demon Hunter;Atrigan
+Stormheart Headdress;Heroic;Leather;Head;3744;2496;0;0;1099;649;True;Druid;Atrigan
+Xuen's Helm;Heroic;Leather;Head;3744;2496;612;1136;0;0;True;Monk;Atrigan
+Dripping Arcfin Shoulderpads;Heroic;Leather;Shoulder;2808;1872;0;515;796;0;False;Any;Harjatan
+Demonbane Shoulderpads;Heroic;Leather;Shoulder;2808;1872;515;796;0;0;True;Demon Hunter;Fallen Avatar
+Stormheart Mantle;Heroic;Leather;Shoulder;2808;1872;571;0;0;740;True;Druid;Fallen Avatar
+Xuen's Shoulderguards;Heroic;Leather;Shoulder;2808;1872;880;0;0;431;True;Monk;Fallen Avatar
+Demonbane Harness;Heroic;Leather;Chest;3744;2496;0;1099;649;0;True;Demon Hunter;Kil'jaeden
+Fanged Slayer's Chestguard;Heroic;Leather;Chest;3744;2496;1136;612;0;0;True;Rogue;Kil'jaeden
+Hide of The Abyssal Behemoth;Heroic;Leather;Chest;3744;2496;686;0;0;1061;False;Any;Mistress Sassz'ine
+Spirebreaker Harness;Heroic;Leather;Chest;3744;2496;0;612;1136;0;False;Any;Gorth
+Stormheart Tunic;Heroic;Leather;Chest;3744;2496;1174;574;0;0;True;Druid;Kil'jaeden
+Cinch of Sizzling Flesh;Heroic;Leather;Waist;2808;1872;796;515;0;0;False;Any;Goroth
+Etched BoneWaistband;Heroic;Leather;Waist;2808;1872;0;0;515;796;False;Any;Engine of Souls
+Waistguard of Profane Duplicity;Heroic;Leather;Waist;3082;2055;0;797;564;0;False;Any;Kil'jaeden
+Bonespur Studded Legwarps;Heroic;Leather;Legs;3744;2496;574;0;0;1174;False;Any;Atrigan
+Fel-Stippled Legguards;Heroic;Leather;Legs;3744;2496;1034;557;0;0;False;Any;Maiden of Vigilance
+Demonbane Leggings;Heroic;Leather;Legs;3744;2496;762;0;986;0;True;Demon Hunter;Mistress Sassz'ine
+Stormheart Legguards;Heroic;Leather;Legs;3744;2496;0;1024;724;0;True;Druid;Mistress Sassz'ine
+Xuen's Legguards;Heroic;Leather;Legs;3744;2496;0;0;1099;649;True;Monk;Mistress Sassz'ine
+Glacier Walkers;Heroic;Leather;Feet;2808;1872;852;459;0;0;False;Any;Harjatan
+Felscape Pathfingers;Heroic;Leather;Feet;2808;1872;0;0;515;796;False;Any;Fallen Avatar
+Sinew-Stitched Wristguards;Heroic;Leather;Wrist;2106;1404;0;639;0;344;False;Any;Atrigan
+Bracers of Rppling Darkness;Heroic;Leather;Wrist;2106;1404;576;0;407;0;False;Any;Fallen Avatar
+Moonfire Stranglers;Heroic;Leather;Hands;2808;1872;824;486;0;0;False;Any;Huntress Kasparian
+Gloves of Wayward Compulsion;Heroic;Leather;Hands;2808;1872;459;0;852;0;False;Any;Maiden of Vigilance
+Demonbane Gauntlets;Heroic;Leather;Hands;2808;1872;0;431;0;880;True;Demon Hunter;Harjatan
+Stormheart Gloves;Heroic;Leather;Hands;2808;1872;0;852;0;459;True;Druid;Harjatan
+Xuen's Gauntlets;Heroic;Leather;Hands;2808;1872;0;740;571;0;True;Monk;Harjatan
+Fanged Slayer's Helm;Heroic;Leather;Head;3744;2496;0;0;1099;649;True;Rogue;Atrigan
+Fanged Slayer's Shoulderpads;Heroic;Leather;Shoulder;2808;1872;0;796;0;515;True;Rogue;Fallen Avatar
+Xuen's Tunic;Heroic;Leather;Chest;3744;2496;1024;0;724;0;True;Monk;Kil'jaeden
+Fanged Slayer's Handguards;Heroic;Leather;Hands;2808;1872;486;0;0;824;True;Rogue;Harjatan
+Fanged Slayer's Legguards;Heroic;Leather;Legs;3744;2496;0;1174;574;0;True;Rogue;Mistress Sassz'ine
+Azure Squallshaper's Helm;Heroic;Mail;Head;3744;2496;0;686;0;1061;False;Any;Mistress Sassz'ine
+Crown of Discarded Hope;Heroic;Mail;Head;3744;2496;649;0;1099;0;False;Any;Maiden of Vigilance
+Helmet of The Skybreaker;Heroic;Mail;Head;3744;2496;0;986;762;0;True;Shaman;Atrigan
+Pauldrons of The Gibbering Eye;Heroic;Mail;Shoulder;2808;1872;768;0;543;0;False;Any;Atrigan
+Mantle of Waning Radiance;Heroic;Mail;Shoulder;2808;1872;0;459;852;0;False;Any;Huntress Kasparian
+Pauldrons of The Skybraker;Heroic;Mail;Shoulder;2808;1872;824;486;0;0;True;Shaman;Fallen Avatar
+Harness of The Skybreaker;Heroic;Mail;Chest;3744;2496;0;0;1174;574;True;Shaman;Kil'jaeden
+Hauberk of The Frozen Mist;Heroic;Mail;Chest;3744;2496;1136;612;0;0;False;Any;Harjatan
+Belt of The Screaming Slag;Heroic;Mail;Waist;2808;1872;768;543;0;0;False;Any;Goroth
+Waistguard of Interminable Unity;Heroic;Mail;Waist;2808;1872;0;824;486;0;False;Any;Huntress Kasparian
+Flesh-Raking Leggings;Heroic;Mail;Legs;3744;2496;0;574;1174;0;False;Any;Atrigan
+Legguards of Siphoned Power;Heroic;Mail;Legs;3744;2496;649;1099;0;0;False;Any;Fallen Avatar
+Legguards of The Skybreaker;Heroic;Mail;Legs;3744;2496;1099;0;649;0;True;Shaman;Mistress Sassz'ine
+Insulated Finpads;Heroic;Mail;Feet;2808;1872;0;824;486;0;False;Any;Harjatan
+Star-Stalker Treads;Heroic;Mail;Feet;2808;1872;855;505;0;0;False;Any;Kil'jaeden
+Pain-Singed Armguards;Heroic;Mail;Wrist;2106;1404;344;0;639;0;False;Any;Goroth
+¿Chaos-Calming Wristguards?;Heroic;Mail;Wrist;2106;1404;0;543;351;0;False;Any;Maiden of Vigilance
+Gauntlets of Spiteful Haunting;Heroic;Mail;Hands;2808;1872;796;515;0;0;False;Any;Engine of Souls
+Vicegrip of The Unrepentant;Heroic;Mail;Hands;2808;1872;505;0;855;0;False;Any;Kil'jaeden
+Grips of The Skybreaker;Heroic;Mail;Hands;2808;1872;0;852;0;459;True;Shaman;Harjatan
+Wildstalker Helmet;Heroic;Mail;Head;3744;2496;1174;574;0;0;True;Hunter;Atrigan
+Wildstalker Spaulders;Heroic;Mail;Shoulder;2808;1872;0;824;486;0;True;Hunter;Fallen Avatar
+Wildstalker Chestguard;Heroic;Mail;Chest;3744;2496;0;1099;649;0;True;Hunter;Maiden of Vigilance
+Wildstalker Leggings;Heroic;Mail;Legs;3744;2496;0;0;1136;612;True;Hunter;Mistress Sassz'ine
+Wildstaker Gauntlets;Heroic;Mail;Hands;2808;1872;571;0;0;740;True;Hunter;Harjatan
+Armet of The Rotten Mind;Heroic;Plate;Head;3744;2496;0;686;1061;0;False;Any;Engine of Souls
+Radiant Lightbringer Crown;Heroic;Plate;Head;3744;2496;0;1174;0;574;True;Paladin;Atrigan
+Shoulderpads of Crackling Flame;Heroic;Plate;Shoulder;2808;1872;0;880;431;0;False;Any;Goroth
+Grave-Dredged Pauldrons;Heroic;Plate;Shoulder;2808;1872;796;0;0;515;False;Any;Engine of Souls
+Radiant Lightbringer Shoulderguards;Heroic;Plate;Shoulder;2808;1872;768;543;0;0;True;Paladin;Fallen Avatar
+Cuirass of Bliding Dawn;Heroic;Plate;Chest;3744;2496;0;762;0;986;False;Any;Huntress Kasparian
+Gravewarden Chestpalet;Heroic;Plate;Chest;3744;2496;649;1099;0;0;True;Death Knight;Maiden of Vigilance
+Radiant Lightbringer Breastplate;Heroic;Plate;Chest;3744;2496;0;649;1099;0;True;Paladin;Maiden of Vigilance
+Shiversleet Waistguard;Heroic;Plate;Waist;2808;1872;0;740;0;571;False;Any;Harjatan
+Soul-Render's Greatbelt;Heroic;Plate;Waist;3082;2055;914;0;447;0;False;Any;Kil'jaeden
+Lava-Slough Leggaurds;Heroic;Plate;Legs;3744;2496;1136;612;0;0;False;Any;Goroth
+Greaves of Impure Midnight;Heroic;Plate;Legs;4109;2739;0;752;1063;0;False;Any;Kil'jaeden
+Radiant LightBringer Greaves;Heroic;Plate;Legs;3744;2496;1136;0;612;0;True;Paladin;Mistress Sassz'ine
+Iron Ballast Sabatons;Heroic;Plate;Feet;2808;1872;0;852;0;459;False;Any;Mistress Sassz'ine
+Steadfast Purifier's Warboots;Heroic;Plate;Feet;2808;1872;824;486;0;0;False;Any;Maiden of Vigilance
+Bonemeal-Crusted Armplates;Heroic;Plate;Wrist;2106;1404;660;0;0;323;False;Any;Atrigan
+¿Vambraces of Resolute Justice?;Heroic;Plate;Wrist;2106;1404;0;582;313;0;False;Any;Maiden of Vigilance
+Dusk-Crusher Handguards;Heroic;Plate;Hands;2808;1872;486;824;0;0;False;Any;Huntress Kasparian
+Groundshatter Gauntlets;Heroic;Plate;Hands;2808;1872;0;486;824;0;False;Any;Fallen Avatar
+Radiant Lightbringer Gauntlets;Heroic;Plate;Hands;2808;1872;571;0;0;740;True;Paladin;Harjatan
+Gravewarden Visage;Heroic;Plate;Head;3744;2496;1136;0;612;0;True;Death Knight;Atrigan
+Titanic Onslaught Greathealm;Heroic;Plate;Head;3744;2496;1099;0;649;0;True;Warrior;Atrigan
+Gravewarden Pauldrons;Heroic;Plate;Shoulder;2808;1872;0;543;0;768;True;Death Knight;Fallen Avatar
+Titanic Onslaught Paultrons;Heroic;Plate;Shoulder;2808;1872;0;0;824;486;True;Warrior;Fallen Avatar
+Titanic Onslaught Breatplate;Heroic;Plate;Chest;3744;2496;0;574;1174;0;True;Warrior;Maiden of Vigilance
+Wave-Hammered Breastplate;Heroic;Plate;Chest;3744;2496;1136;0;612;0;False;Any;Harjatan
+Gravewarden Legplates;Heroic;Plate;Legs;3744;2496;0;0;1174;574;True;Death Knight;Mistress Sassz'ine
+Titanic Onslaught Greaves;Heroic;Plate;Legs;3744;2496;0;1061;0;686;True;Warrior;Mistress Sassz'ine
+Gravewarden Handguards;Heroic;Plate;Hands;2808;1872;796;0;0;515;True;Death Knight;Harjatan
+Titanic Onslaught Handguards;Heroic;Plate;Hands;2808;1872;543;0;0;768;True;Warrior;Harjatan
+Imploding Infernal Star;Heroic;Fel;Relic;0;0;0;0;0;0;False;Any;Goroth
+Mutated Nautilus;Heroic;Fel;Relic;0;0;0;0;0;0;False;Any;Mistress Sassz'ine
+Befouled Effigy of Elune;Heroic;Fel;Relic;0;0;0;0;0;0;False;Any;Engine of Souls
+Ruinous Ashes;Heroic;Fel;Relic;0;0;0;0;0;0;False;Any;Kil'jaeden
+Smoldering Thumbscrews;Heroic;Fire;Relic;0;0;0;0;0;0;False;Any;Atrigan
+Ferocity of The Devout;Heroic;Fire;Relic;0;0;0;0;0;0;False;Any;Huntress Kasparian
+Stabilized Extinc Protocol;Heroic;Fire;Relic;0;0;0;0;0;0;False;Any;Maiden of Vigilance
+Cleansing Ignition Catalyst;Heroic;Fire;Relic;0;0;0;0;0;0;False;Any;Fallen Avatar
+Ice-Threaded Conch;Heroic;Frost;Relic;0;0;0;0;0;0;False;Any;Harjatan
+Globe of Frothing Eddies;Heroic;Frost;Relic;0;0;0;0;0;0;False;Any;Mistress Sassz'ine
+Virus of Lethargy;Heroic;Frost;Relic;0;0;0;0;0;0;False;Any;Maiden of Vigilance
+Inquisition Master Key;Heroic;Holy;Relic;0;0;0;0;0;0;False;Any;Atrigan
+Blessing of The White Lady;Heroic;Holy;Relic;0;0;0;0;0;0;False;Any;Huntress Kasparian
+Fragment of Grace;Heroic;Holy;Relic;0;0;0;0;0;0;False;Any;Maiden of Vigilance
+Boon of The Prophet;Heroic;Holy;Relic;0;0;0;0;0;0;False;Any;Kil'jaeden
+Calcified Barnacle;Heroic;Iron;Relic;0;0;0;0;0;0;False;Any;Harjatan
+Chiseled Starlight;Heroic;Iron;Relic;0;0;0;0;0;0;False;Any;Huntress Kasparian
+Reactive Pylon Casing;Heroic;Iron;Relic;0;0;0;0;0;0;False;Any;Fallen Avatar
+Icon of Perverse Animation;Heroic;Life;Relic;0;0;0;0;0;0;False;Any;Goroth
+Moontalon's Feather;Heroic;Life;Relic;0;0;0;0;0;0;False;Any;Huntress Kasparian
+Glowing Prayer Candle;Heroic;Life;Relic;0;0;0;0;0;0;False;Any;Engine of Souls
+Valorous Spark of Hope;Heroic;Life;Relic;0;0;0;0;0;0;False;Any;Fallen Avatar
+Grimacing Highborn Skull;Heroic;Shadow;Relic;0;0;0;0;0;0;False;Any;Engine of Souls
+Harjatan's Leering Eye;Heroic;Shadow;Relic;0;0;0;0;0;0;False;Any;Harjatan
+Brand of Relentless Agony;Heroic;Shadow;Relic;0;0;0;0;0;0;False;Any;Goroth
+Corrupted Containment Coil;Heroic;Shadow;Relic;0;0;0;0;0;0;False;Any;Fallen Avatar
+Felsoul Vortex;Heroic;Storm;Relic;0;0;0;0;0;0;False;Any;Goroth
+Flawless Hurricane Pearl;Heroic;Storm;Relic;0;0;0;0;0;0;False;Any;Mistress Sassz'ine
+Preserved Starlight Incense;Heroic;Storm;Relic;0;0;0;0;0;0;False;Any;Engine of Souls
+Unfurling Origination;Heroic;Storm;Relic;0;0;0;0;0;0;False;Any;Maiden of Vigilance
+Crown of the Arcane Tempest;Heroic;Cloth;Head;3744;2496;1174;0;0;574;True;Mage;Atrigan
+Specter Betrayal;Heroic;Neutral;Trinket;0;2604;0;0;0;0;False;DPS;Kil'jaeden
